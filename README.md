@@ -57,8 +57,6 @@ These are descriptive observations from simulated data, not conclusions about re
 
 ## Dashboard screenshots
 
-Place the six PNG files alongside this README to display the previews below.
-
 ### Executive Overview
 ![Executive Overview](Executive_Overview.png)
 
